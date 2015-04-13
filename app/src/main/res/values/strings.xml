@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sunshine2.1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">REFRESH!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">11219</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_settgins">SettginsActivity</string>
+    <string name="title_activity_activity_settings">ActivitySettings</string>
+    <string name="pref_units_label">Pick your units</string>
+    <string name="pref_units_metric" translatable="false">Metric</string>
+    <string name="pref_units_imperial" translatable="false">Imperial</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_label_metric">Metric</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+    <string name="action_map">Show on Map</string>
+    <string name="action_share">Share it!</string>
+</resources>
